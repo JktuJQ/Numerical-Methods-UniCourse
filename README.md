@@ -12,3 +12,4 @@ where everyone could find some additional tasks to experiment with.
 The themes of assignments are as follows:
 1. [Lagrange interpolation](lagrange_interpolation.ipynb)
 2. [Numerical differentiation](numerical_differentiation.ipynb)
+3. [Numerical intergration](numerical_integration.ipynb)
