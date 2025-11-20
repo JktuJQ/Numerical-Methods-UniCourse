@@ -13,3 +13,4 @@ The themes of assignments are as follows:
 1. [Lagrange interpolation](interpolation.ipynb)
 2. [Numerical differentiation](differentiation.ipynb)
 3. [Numerical intergration](integration.ipynb)
+4. [Numerically solving equations](equations.ipynb)
