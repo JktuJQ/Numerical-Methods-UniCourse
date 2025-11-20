@@ -10,6 +10,6 @@ All homework assignments are in the [file](tasks.pdf),
 where everyone could find some additional tasks to experiment with.
 
 The themes of assignments are as follows:
-1. [Lagrange interpolation](lagrange_interpolation.ipynb)
-2. [Numerical differentiation](numerical_differentiation.ipynb)
-3. [Numerical intergration](numerical_integration.ipynb)
+1. [Lagrange interpolation](interpolation.ipynb)
+2. [Numerical differentiation](differentiation.ipynb)
+3. [Numerical intergration](integration.ipynb)
