@@ -14,3 +14,4 @@ The themes of assignments are as follows:
 2. [Numerical differentiation](differentiation.ipynb)
 3. [Numerical intergration](integration.ipynb)
 4. [Numerically solving equations](equations.ipynb)
+5. [Numerically solving initial value problem (Cauchy problem)](initial_value_problem.ipynb)
