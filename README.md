@@ -16,3 +16,4 @@ The themes of assignments are as follows:
 4. [Numerically solving equations](equations.ipynb)
 5. [Numerically solving initial value problem (Cauchy problem)](initial_value_problem.ipynb)
 6. [Numerically solving boundary value problem](boundary_value_problem.ipynb)
+7. [Numerically solving mixed boundary value problem](mixed_boundary_value_problem.ipynb)
