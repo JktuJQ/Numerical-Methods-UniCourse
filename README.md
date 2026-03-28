@@ -36,3 +36,4 @@ In the [file](numerical_methods_in_equations_of_mathematical_physics.pdf) you ca
 The themes are as follows
 1. [Numerical solution of acoustic wave equation with singularity condition (leapfrog method)](acoustic_wave_equation_with_singularity_condition.ipynb)
 2. [Numerical solution of heat equation (Dufort-Frankel method)](heat_equation.ipynb)
+3. [Numerical solution of transfer equation (upwind method)](transfer_equation.ipynb)
