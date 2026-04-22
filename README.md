@@ -39,3 +39,4 @@ The themes are as follows
 3. [Numerical solution of transfer equation with first order method (upwind method)](transfer_equation_upwind_method.ipynb)
 4. [Numerical solution of transfer equation with second order method (Lax-Wendroff method)](transfer_equation_lax_wendroff.ipynb)
 5. [Numerical solution of transfer equation with Total Variation Diminishing (TVD) method (Lax-Wendroff TVD method)](transfer_equation_lax_wendroff_tvd.ipynb)
+6. [Numerical solution of shallow water equations with Method of Characteristics (MoC)](shallow_water_equations.ipynb)
