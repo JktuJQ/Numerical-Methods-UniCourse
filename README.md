@@ -1,12 +1,12 @@
 # Numerical Methods Uni Course
 
 This repository contains all of my homework assignments,
-completed during my university course on Numerical Methods.
+completed during my university course on **Numerical Methods**.
 
 Everything is stored in Jupiter Notebook format because it is very convenient
 to prototype and write out some basic mathematical formulas at the same time.
 
-While most of the text and code is my own, I still owe a debt of gratitude to my teacher for developing the course as a whole.
+While most of the text and code is my own, I still owe a debt of gratitude to my teachers for developing the course as a whole.
 
 ## Basic numerical procedures
 
@@ -36,4 +36,5 @@ In the [file](numerical_methods_in_equations_of_mathematical_physics.pdf) you ca
 The themes are as follows
 1. [Numerical solution of acoustic wave equation with singularity condition (leapfrog method)](acoustic_wave_equation_with_singularity_condition.ipynb)
 2. [Numerical solution of heat equation (Dufort-Frankel method)](heat_equation.ipynb)
-3. [Numerical solution of transfer equation (upwind method)](transfer_equation.ipynb)
+3. [Numerical solution of transfer equation with first order method (upwind method)](transfer_equation_upwind_method.ipynb)
+4. [Numerical solution of transfer equation with second order method (Lax-Wendroff method)](transfer_equation_lax_wendroff.ipynb)
