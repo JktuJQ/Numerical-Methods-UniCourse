@@ -38,3 +38,4 @@ The themes are as follows
 2. [Numerical solution of heat equation (Dufort-Frankel method)](heat_equation.ipynb)
 3. [Numerical solution of transfer equation with first order method (upwind method)](transfer_equation_upwind_method.ipynb)
 4. [Numerical solution of transfer equation with second order method (Lax-Wendroff method)](transfer_equation_lax_wendroff.ipynb)
+5. [Numerical solution of transfer equation with Total Variation Diminishing (TVD) method (Lax-Wendroff TVD method)](transfer_equation_lax_wendroff_tvd.ipynb)
