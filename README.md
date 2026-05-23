@@ -47,3 +47,6 @@ Linear algebra has many applications in many different spheres.
 In this section I was developing procedures that implement basic algebraic transformation that are useful in different contexts.
 
 You can find more tasks for yourself in this [file](computational_linear_algebra.pdf).
+
+The themes are as follows:
+1. [Calculation of matrix norms and asymptotic behaviour of ratio of norms](matrix_norms.ipynb)
