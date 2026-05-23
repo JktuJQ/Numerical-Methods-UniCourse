@@ -33,10 +33,17 @@ such as models of string vibrations, thermal conductivity, diffusion, matter tra
 
 In the [file](numerical_methods_in_equations_of_mathematical_physics.pdf) you can find lectures and several additional tasks to experiment with.
 
-The themes are as follows
+The themes are as follows:
 1. [Numerical solution of acoustic wave equation with singularity condition (leapfrog method)](acoustic_wave_equation_with_singularity_condition.ipynb)
 2. [Numerical solution of heat equation (Dufort-Frankel method)](heat_equation.ipynb)
 3. [Numerical solution of transfer equation with first order method (upwind method)](transfer_equation_upwind_method.ipynb)
 4. [Numerical solution of transfer equation with second order method (Lax-Wendroff method)](transfer_equation_lax_wendroff.ipynb)
 5. [Numerical solution of transfer equation with Total Variation Diminishing (TVD) method (Lax-Wendroff TVD method)](transfer_equation_lax_wendroff_tvd.ipynb)
 6. [Numerical solution of shallow water equations with Method of Characteristics (MoC)](shallow_water_equations.ipynb)
+
+## Computational linear algebra
+
+Linear algebra has many applications in many different spheres. 
+In this section I was developing procedures that implement basic algebraic transformation that are useful in different contexts.
+
+You can find more tasks for yourself in this [file](computational_linear_algebra.pdf).
