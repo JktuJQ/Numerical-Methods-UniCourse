@@ -50,3 +50,4 @@ You can find more tasks for yourself in this [file](computational_linear_algebra
 
 The themes are as follows:
 1. [Calculation of matrix norms and asymptotic behaviour of ratio of norms](matrix_norms.ipynb)
+2. [LU decomposion procedure](lu_decomposition.ipynb)
