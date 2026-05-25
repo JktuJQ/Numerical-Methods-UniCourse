@@ -52,3 +52,4 @@ The themes are as follows:
 1. [Calculation of matrix norms and asymptotic behaviour of ratio of norms](matrix_norms.ipynb)
 2. [LU decomposion procedure](lu_decomposition.ipynb)
 3. [QR decomposition procedure](qr_decomposition.ipynb)
+4. [Givens rotations](givens_rotations.ipynb)
