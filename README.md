@@ -54,3 +54,4 @@ The themes are as follows:
 3. [QR decomposition procedure](qr_decomposition.ipynb)
 4. [Givens rotations](givens_rotations.ipynb)
 5. [SVD decomposition in image compression](svd.ipynb)
+6. [Eigen values of differential operators](eigen_values.ipynb)
