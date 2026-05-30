@@ -53,3 +53,4 @@ The themes are as follows:
 2. [LU decomposion procedure](lu_decomposition.ipynb)
 3. [QR decomposition procedure](qr_decomposition.ipynb)
 4. [Givens rotations](givens_rotations.ipynb)
+5. [SVD decomposition in image compression](svd.ipynb)
