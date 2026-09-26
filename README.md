@@ -55,3 +55,14 @@ The themes are as follows:
 4. [Givens rotations](givens_rotations.ipynb)
 5. [SVD decomposition in image compression](svd.ipynb)
 6. [Eigen values of differential operators](eigen_values.ipynb)
+
+## Iterative methods for linear systems
+
+When linear systems become large and sparse, direct methods become prohibitively expensive —
+both in time and memory.
+This section is about iterative solvers that work without ever building the matrix explicitly.
+
+You can find more tasks and lecture notes in this [file](iterative_methods_for_linear_systems.pdf).
+
+The themes are as follows:
+1. [Poisson equation solution via simple iteration method](poisson_equation_via_simple_iteration_method.ipynb)
