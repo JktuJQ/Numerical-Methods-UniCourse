@@ -66,3 +66,4 @@ You can find more tasks and lecture notes in this [file](iterative_methods_for_l
 
 The themes are as follows:
 1. [Poisson equation solution via simple iteration method](poisson_equation_via_simple_iteration_method.ipynb)
+2. [Poisson equation solution via conjugated gradients](poisson_equation_via_conjugated_gradients.ipynb)
