@@ -43,7 +43,7 @@ The themes are as follows:
 
 ## Computational linear algebra
 
-Linear algebra has many applications in many different spheres. 
+Linear algebra has many applications in many different spheres.
 In this section I was developing procedures that implement basic algebraic transformation that are useful in different contexts.
 
 You can find more tasks for yourself in this [file](computational_linear_algebra.pdf).
@@ -58,7 +58,7 @@ The themes are as follows:
 
 ## Iterative methods for linear systems
 
-When linear systems become large and sparse, direct methods become prohibitively expensive —
+When linear systems become large and sparse, direct methods become prohibitively expensive -
 both in time and memory.
 This section is about iterative solvers that work without ever building the matrix explicitly.
 
@@ -68,3 +68,4 @@ The themes are as follows:
 1. [Poisson equation solution via simple iteration method](poisson_equation_via_simple_iteration_method.ipynb)
 2. [Poisson equation solution via conjugated gradients](poisson_equation_via_conjugated_gradients.ipynb)
 3. [Poisson equation solution via sparse matrices](poisson_equation_via_sparse_matrices.ipynb)
+4. [Diffusion equation solution via LU decomposition](diffusion_equation_via_lu_decomposition.ipynb)
