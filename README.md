@@ -69,3 +69,4 @@ The themes are as follows:
 2. [Poisson equation solution via conjugated gradients](poisson_equation_via_conjugated_gradients.ipynb)
 3. [Poisson equation solution via sparse matrices](poisson_equation_via_sparse_matrices.ipynb)
 4. [Diffusion equation solution via LU decomposition](diffusion_equation_via_lu_decomposition.ipynb)
+5. [Equations on unstructured grid](equations_on_unstructured_grid.ipynb)
